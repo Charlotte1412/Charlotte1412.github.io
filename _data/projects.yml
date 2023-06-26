@@ -1,8 +1,7 @@
 - name: A Hybrid Workspace for Immersive Visualization via Mixed Reality (2022) # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: Demonstration of the functionality of the interactive workspace by displaying medical 3D data in the HoloViz Office
-(HoloLens, Unity3D) # Description shown at all times, text only
+  description_less: Demonstration of the functionality of the interactive workspace by displaying medical 3D data in the HoloViz Office. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>This part is only seen when you click on the project card.</p> 
   action_buttons: > # Action buttons for project, HTML only
