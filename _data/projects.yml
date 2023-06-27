@@ -9,17 +9,16 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [Mixed Reality, HoloLens, Data Visualization, Unity3D] # A list of tags
 
-- name: FALLING MANNA (2022)
-  id: pf
-  img_src: 
-   description_less: > # Description shown at all times
+- name: FALLING MANNA (2022) # Project name, also used as heading
+  id: p6 # Project id, must be unique amongst the projects
+  img_src: /assets/img/pj2.png # Optional image
+  description_less: > # Description shown at all times
     <p>3-dimensional virtual reality game designed to promote self-tracking of diet data and Scottish foods.</p> 
-  description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
-  action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [Virtual Reality, Oculus, Unity3D]
+  description_more: > # Description shown only when the project card is expanded
+    <p> HoloViz Office: A location-independent hybrid workspace for immersive 3D visualization using mixed reality​.</p> 
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [Virtual Reality, Oculus, Unity3D] # A list of tags
 
 - name: Health Service Application (2022)
   id: p2
