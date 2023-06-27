@@ -1,5 +1,5 @@
 title: Shiqi YU # Shown in header on pages with full_logo: true
-short_logo: Shiqi YU. # Shown in header on all pages by default unless full_logo: true is set
+short_logo: Shiqi YU # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   
 url: "https://Charlotte1412.github.io" # The base hostname & protocol for your site
@@ -18,7 +18,7 @@ g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will
 markdown: kramdown
 
 defaults: # Recommended defaults, you may set your own
--
+  -
     scope:
       path: _posts
     values:
