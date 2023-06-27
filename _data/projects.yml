@@ -1,6 +1,6 @@
 - name: An Immersive 3D Visualization of Medical Data in HoloViz Office​ (2022) # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
+  img_src: /assets/img/pj1.png # Optional image
   description_less: > # Description shown at all times
     <p>Demonstration of the functionality of the interactive workspace by displaying medical 3D data in the HoloViz Office.</p> 
   description_more: > # Description shown only when the project card is expanded
