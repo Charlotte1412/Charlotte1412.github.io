@@ -20,11 +20,6 @@ markdown: kramdown
 defaults: # Recommended defaults, you may set your own
   -
     scope:
-      path: _posts
-    values:
-      comments: true
-  -
-    scope:
       path: pages/redirects
     values:
       layout: redirect
