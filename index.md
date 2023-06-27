@@ -3,13 +3,13 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description:  I am actively pursuing a Ph.D. opportunity in XR (Extended Reality) with a desired start date in fall 2024. My objective is to explore the intricate relationship between technology, design, and user experience, with a particular emphasis on improving usability and tackling issues pertaining to security and privacy.
 sitemap:
   priority: 1.0
 ---
 <p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+Highly motivated and accomplished XR software developer with a strong background in developing interactive XR applications and conducting research in XR environments. Possesses a solid understanding of cyber threats and intrusion detection in XR, and a demonstrated ability to collaborate effectively in multidisciplinary teams to deliver innovative solutions. Passionate about pushing the boundaries of XR technology to create easy-to-use and safe experiences. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
 Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
