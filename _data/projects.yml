@@ -11,7 +11,7 @@
 
 - name: FALLING MANNA (2022)
   id: pf
-  img_src: /assets/img/pj2.png
+  img_src: 
    description_less: > # Description shown at all times
     <p>3-dimensional virtual reality game designed to promote self-tracking of diet data and Scottish foods.</p> 
   description_more: >
