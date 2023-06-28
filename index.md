@@ -7,6 +7,7 @@ description:
 sitemap:
   priority: 1.0
 ---
+<div style="display: flex; align-items: center;">
 <img src="assets/img/photo.jpg" alt="Your Name" style="width: 300px; height: 400px;">
 <p class="describe-text">I am actively pursuing a Ph.D. opportunity in XR (Extended Reality) with a desired start date in Fall 2024. My objective is to explore the intricate relationship between technology, design, and user experience, with a particular emphasis on improving usability and tackling issues pertaining to security and privacy.</p>
 <br>
