@@ -6,8 +6,6 @@
   description_more: > # Description shown only when the project card is expanded
     <p> HoloViz Office: A location-independent hybrid workspace for immersive 3D visualization using mixed reality​.</p> 
     <a href="https://youtu.be/2s6ayGhw_6Y" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-</a>
-
   tags: [Mixed Reality, HoloLens, Data Visualization, Unity3D] # A list of tags
 
 - name: FALLING MANNA (2022) # Project name, also used as heading
