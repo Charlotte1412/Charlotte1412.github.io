@@ -42,7 +42,7 @@
   id: p3
   img_src: /assets/img/pj3.png
   description_less: > # Description shown at all times
-    <p>a website designed as a colorblind-friendly map using Google Earth Engine and EarthBlox to visualize data, specifically aimed at those with red-green colour blindness. </p> 
+    <p>A website designed as a colorblind-friendly map using Google Earth Engine and EarthBlox to visualize data, specifically aimed at those with red-green colour blindness. </p> 
   description_more: >
   action_buttons: >
     <a href="https://youtu.be/oJbKyuacqOI" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
