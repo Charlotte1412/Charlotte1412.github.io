@@ -5,7 +5,7 @@
     <p>Demonstration of the functionality of the interactive workspace by displaying medical 3D data in the HoloViz Office.</p> 
   description_more: > # Description shown only when the project card is expanded
     <p> HoloViz Office: A location-independent hybrid workspace for immersive 3D visualization using mixed reality​.</p> 
-  action buttons: >
+  action_buttons: >
     <a href="https://youtu.be/2s6ayGhw_6Y" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [Mixed Reality, HoloLens, Data Visualization, Unity3D] # A list of tags
 
@@ -15,7 +15,7 @@
   description_less: > # Description shown at all times
     <p>3-dimensional virtual reality game designed to promote self-tracking of diet data and Scottish foods.</p> 
   description_more: > # Description shown only when the project card is expanded
-  action buttons: >
+  action_buttons: >
     <a href="https://youtu.be/4S18WxpgaXs" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [Virtual Reality, Oculus, Unity3D] # A list of tags
 
