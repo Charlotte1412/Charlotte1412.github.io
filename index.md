@@ -20,7 +20,7 @@ sitemap:
       Possesses a solid understanding of cyber threats and intrusion detection in XR, and a demonstrated ability to collaborate effectively in multidisciplinary teams to deliver innovative solutions.
       Passionate about pushing the boundaries of XR technology to create easy-to-use and safe experiences.
       <br>
-      <a href="https://github.com/shiqi-yu/shiqi-yu.github.io/raw/master/assets/Shiqi%20YU_CV.pdf" target="_blank type="text/html">[Curriculum Vitae]</a>
+      <a href="https://github.com/shiqi-yu/shiqi-yu.github.io/raw/master/assets/Shiqi%20YU_CV.pdf">[Curriculum Vitae]</a>
     </p>
   </div>
 </div>
