@@ -15,7 +15,7 @@
     <p>3-dimensional virtual reality game designed to promote self-tracking of diet data and Scottish foods.</p> 
   description_more: > # Description shown only when the project card is expanded
     <p> HoloViz Office: A location-independent hybrid workspace for immersive 3D visualization using mixed reality​.</p> 
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="https://youtu.be/4S18WxpgaXs"></i> &nbsp View Project</a>
+    <a href="https://youtu.be/4S18WxpgaXs" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [Virtual Reality, Oculus, Unity3D] # A list of tags
 
 - name: Health Service Application (2022)
@@ -26,7 +26,7 @@
   description_more: >
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="https://youtu.be/uBCfgiwZvh0"></i> &nbsp View Project</a>
+    <a href="https://youtu.be/uBCfgiwZvh0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [HCI]
   
 - name: Text-based Dynamic Video Generation for Virtual Reality Scenes(2022)
@@ -47,7 +47,7 @@
   description_more: >
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="https://youtu.be/oJbKyuacqOI"></i> &nbsp View Project</a>
+    <a href="https://youtu.be/oJbKyuacqOI" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [HCI, Data Visualization]
 
 - name: Scene Generation Algorithm Implementation with Unity3D (2021)
@@ -58,5 +58,5 @@
   description_more: >
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="https://youtu.be/WhstpQVYe-U"></i> &nbsp View Project</a>
+    <a href="https://youtu.be/WhstpQVYe-U" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [unity3D, Game]
