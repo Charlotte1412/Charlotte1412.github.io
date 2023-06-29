@@ -7,7 +7,7 @@ description:
 sitemap:
   priority: 1.0
 ---
-<div style="display: flex; align-items: center; max-width: 600px;">
+<div style="display: flex; align-items: center; max-width: 900px; margin: 0 auto;">
   <img src="assets/img/photo.jpg" alt="Your Name" style="width: 300px; height: 400px;">
   <div style="margin-left: 20px;">
     <p class="describe-text">
