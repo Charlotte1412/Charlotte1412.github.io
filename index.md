@@ -8,11 +8,11 @@ sitemap:
   priority: 1.0
 ---
   <img src="assets/img/photo.jpg" alt="Your Name" style="width: 300px; height: 400px;">
-  <p class="describe-text">
-      I am actively pursuing a Ph.D. opportunity in XR (Extended Reality) with a desired start date in Fall 2024. I am driven to explore the intricate relationship between technology, design, and user experience, with a particular emphasis on improving usability and tackling issues pertaining to security and privacy.
-    </p>
-    With a strong educational foundation, including an M.S. in Design Informatics at the University of Edinburgh, and currently working as an XR software developer at the University of Greenwich. Additionally, as part of the Sun project, in collaboration with the University of Greenwich's expertise in cybersecurity, I am dedicated to advancing the field and addressing emerging challenges.
-    
+    <p class="describe-text">I am actively pursuing a Ph.D. opportunity in XR (Extended Reality) with a desired start date in Fall 2024. My passion lies in exploring the intricate relationship between technology, design, and user experience, with a strong focus on enhancing usability and addressing security and privacy concerns.</p>
+<br>
+Having earned an M.S. in Design Informatics from the *University of Edinburgh*, I am currently working as an XR Software Developer at the *University of Greenwich* in London, UK. In my role as part of the <a href="https://www.sun-xr-project.eu/">SUN</a> project, under the supervision of Professor  <a href="https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/george-loukas">George Loukas</a>  in the field of XR Cyber Security, I am dedicated to advancing the field and addressing emerging challenges.
+
+
 <br>
 <a href="https://github.com/shiqi-yu/shiqi-yu.github.io/raw/master/assets/Shiqi%20YU_CV.pdf">[Curriculum Vitae]</a>
 
