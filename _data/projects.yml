@@ -59,8 +59,8 @@
   tags: [Unity3D, Game]
 
 - name: Dream Controller (2021)
-  id: p6
-  img_src: /assets/img/pj6.png
+  id: p7
+  img_src: /assets/img/pj7.png
   description_less: > # Description shown at all times
     <p>Dream Controller is a conceptual lightweight eye mask designed for post-traumatic stress disorder (PTSD) patients. It ultilizes the virtual reality technology to create calming environments and soothing sounds to improve sleep quality. </p> 
   description_more: >
