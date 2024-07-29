@@ -63,7 +63,7 @@ Last Updated on Jul. 29, 2024.
 <body>
     <div class="container">
         <div class="social-icons">
-            <a href="#" class="icon">CV</a>
+            <a href="assets/cv_shiqiyu_20240604.pdf" class="icon">CV</a>
         </div>
         <img src="path_to_your_image.jpg" alt="Self-Portrait" class="profile-image">
         <p class="caption">Self-Portrait. Co-painted with AI.</p>
