@@ -21,45 +21,7 @@ I am now an incoming Interdisciplinary Design and Media Ph.D. student at Northea
 <p align="center">
 Last Updated on Jul. 29, 2024.
 </p>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Image Layout</title>
-    <style>
-        .container {
-            max-width: 400px;
-            margin: 0 auto;
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-        .social-icons {
-            margin-bottom: 10px;
-        }
-        .icon {
-            display: inline-block;
-            width: 30px;
-            height: 30px;
-            background-color: #f0f0f0;
-            border-radius: 50%;
-            line-height: 30px;
-            font-size: 12px;
-            font-weight: bold;
-            color: #333;
-            text-decoration: none;
-        }
-        .profile-image {
-            width: 100%;
-            max-width: 300px;
-            border-radius: 10px;
-        }
-        .caption {
-            margin-top: 10px;
-            color: #666;
-            font-size: 14px;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <div class="social-icons">
