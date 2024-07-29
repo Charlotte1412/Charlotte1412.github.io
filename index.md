@@ -22,14 +22,15 @@ I am now an incoming Interdisciplinary Design and Media Ph.D. student at Northea
 Last Updated on Jul. 29, 2024.
 </p>
 
+
+   
 <body>
-    <div class="container">
-        <div class="social-icons">
-            <a href="assets/cv_shiqiyu_20240604.pdf" class="icon">CV</a>
-        </div>
-        <img src="path_to_your_image.jpg" alt="Self-Portrait" class="profile-image">
-        <p class="caption">Self-Portrait. Co-painted with AI.</p>
-    </div>
+   <p align="center">
+        <a href="assets/cv_shiqiyu_20240604.pdf" class="cv-link">CV</a>
+        <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image" style="width: 400px; height: 500px;>
+        <p align="center" class="caption">Captured in Iceland, July 2024</p>
+        <p align="center" class="credit">Photo by my partner <a href="https://pages.gaowh.click/"> Weihe GAO</a></p>
+    </p>
 </body>
 </html>
 
