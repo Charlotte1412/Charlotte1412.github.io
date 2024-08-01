@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 full_logo: true
 title: 
 subtitle: 
