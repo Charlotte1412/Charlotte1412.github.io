@@ -7,7 +7,7 @@ description:
 sitemap:
   priority: 1.0
 ---
- <img src="assets/img/photo.jpg" alt="Your Name" style="width: 300px; height: 400px;">
+
 <h1 align="center">ABOUT</h1>
 
 <p align="center">
@@ -27,12 +27,18 @@ Last Updated on Jul. 29, 2024.
 <body>
    <p align="center">
         <a href="assets/cv_shiqiyu_20240604.pdf" class="cv-link">CV</a>
+      </p>
+  
+  <p align="center">
         <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image" style="width: 400px; height: 500px;>
+      </p>
+          
+  <p align="center">
         <p align="center" class="caption">Captured in Iceland, July 2024</p>
         <p align="center" class="credit">Photo by my partner <a href="https://pages.gaowh.click/"> Weihe GAO</a></p>
     </p>
 </body>
-</html>
+
 
 
 
