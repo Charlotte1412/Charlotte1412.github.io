@@ -30,7 +30,7 @@ Last Updated on Jul. 29, 2024.
       </p>
   
   <p align="center">
-      <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image" style="width: 400px; height: 500px;>
+      <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image" style="width: 350px; height: 450px;>
       </p>
           
   <p align="center">
