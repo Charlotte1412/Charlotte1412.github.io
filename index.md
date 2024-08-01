@@ -19,22 +19,23 @@ I am now an incoming Interdisciplinary Design and Media Ph.D. student at Northea
 </p>
 
 <p align="center">
-Last Updated on Jul. 29, 2024.
+<em>Last Updated on Jul. 29, 2024.<em>
 </p>
 
 
    
 <body>
-   <p align="center">
-  <img src="{{ site.baseurl }}/assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" style="max-width: 100%; height: auto;">
+  <p align="center">
+  <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" width="400" 
+     height="500">
 </p>
 
 <p align="center">
-  <span align="center" class="caption">*Captured in Iceland, July 2024*</span>
+  <span align="center" class="caption"><em>Captured in Iceland, July 2024<em></span>
 </p>
 
 <p align="center">
-  <span align="center" class="credit">*Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO*</a></span>
+  <span align="center" class="credit"><em>Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO<em></a></span>
 </p>
 </body>
 
