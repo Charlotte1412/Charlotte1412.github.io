@@ -26,17 +26,16 @@ Last Updated on Jul. 29, 2024.
    
 <body>
    <p align="center">
-        <a href="assets/cv_shiqiyu_20240604.pdf" class="cv-link">CV</a>
-      </p>
-  
-  <p align="center">
-      <img src="assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image" style="width: 350px; height: 450px;>
-      </p>
-          
-  <p align="center">
-        <p align="center" class="caption">Captured in Iceland, July 2024</p>
-        <p align="center" class="credit">Photo by my partner <a href="https://pages.gaowh.click/"> Weihe GAO</a></p>
-    </p>
+  <img src="{{ site.baseurl }}/assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <span align="center" class="caption">*Captured in Iceland, July 2024*</span>
+</p>
+
+<p align="center">
+  <span align="center" class="credit">*Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO*</a></span>
+</p>
 </body>
 
 
