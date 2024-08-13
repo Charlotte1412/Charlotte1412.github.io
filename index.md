@@ -45,7 +45,9 @@
 </head>
 <body>
     <div class="profile">
-         <img src="assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" style="max-width: 100%; height: auto;">
+        <img "assets/website picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image">
+         <p class="credit">
+        Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO</a>
         <div class="profile-content">
             <h1>YU, Shiqi</h1>
             <p><em>Incoming PhD student in Interdisciplinary Design and Media at Northeastern University, Boston, MA.</em></p>
@@ -56,34 +58,11 @@
             </ul>
             <p>I am a researcher specializing in Extended Reality (XR) and Human-Computer Interaction (HCI). I am particularly interested in seamlessly integrating virtual and physical realms to create innovative and privacy-conscious immersive experiences across industries like healthcare, manufacturing, and entertainment.</p>
          <p>For the full scoop, dive into my <a href="assets/cv_shiqiyu_20240604">CV</a>!</p>
+         <p><em>Last Updated on Jul. 29, 2024.</em></p>
 
           
    
-</body>
-</html>
 
 
-    <h1>ABOUT ME</h1>
+  
 
-    <p>
-        I am a researcher specializing in Extended Reality (XR), Human-Computer Interaction (HCI), and data visualization. I am particularly interested in seamlessly integrating virtual and physical realms to create innovative and privacy-conscious immersive experiences across industries like healthcare, manufacturing, and entertainment.
-    </p>
-
-    <p>
-        I am now an incoming Interdisciplinary Design and Media Ph.D. student at Northeastern University, starting in September 2024. My research ambition lies in enhancing HCI within XR to transform everyday aspects of life into engaging immersive experiences.
-    </p>
-
-    <p><em>Last Updated on Jul. 29, 2024.</em></p>
-
-    <p>
-       <img src="assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" style="max-width: 100%; height: auto;">
-    </p>
-
-    <p class="caption"><em>Captured in Iceland, July 2024</em></p>
-
-    <p class="credit">
-        Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO</a>
-    </p>
-
-</body>
-</html>
