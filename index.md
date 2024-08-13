@@ -46,7 +46,7 @@
 </head>
 <body>
 
-    <h1>ABOUT</h1>
+    <h1>ABOUT ME</h1>
 
     <p>
         I am a researcher specializing in Extended Reality (XR), Human-Computer Interaction (HCI), and data visualization. I am particularly interested in seamlessly integrating virtual and physical realms to create innovative and privacy-conscious immersive experiences across industries like healthcare, manufacturing, and entertainment.
@@ -59,7 +59,7 @@
     <p><em>Last Updated on Jul. 29, 2024.</em></p>
 
     <p>
-        <img src="assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024">
+       <img src="assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" style="max-width: 100%; height: auto;">
     </p>
 
     <p class="caption"><em>Captured in Iceland, July 2024</em></p>
