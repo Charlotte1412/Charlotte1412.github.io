@@ -1,12 +1,12 @@
 ---
-permalink: /
-title: "About ME"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+full_logo: true
+title: 
+subtitle: 
+description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+sitemap:
+  priority: 1.0
 ---
-
 <div style="display: flex; align-items: flex-start;">
   <img src="/assets/img/pj1.png" alt="Profile Picture" width="200" style="margin-right: 20px;">
 
@@ -23,5 +23,10 @@ redirect_from:
 
 Before settling in Boston, Shiqi Yu spent wonderful three years in the UK, working as a Research Fellow at [Cranfield University](https://www.cranfield.ac.uk/) on XR research for the DEBUT WM project and as an XR Software Developer at the [University of Greenwich](https://www.gre.ac.uk/), where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the [University of Edinburgh](https://www.ed.ac.uk/), supervised by <em>[Dr. Benjamin Bach](https://vishub.net/bach.html)</em>, with a thesis on 3D medical data visualization using HoloLens. Her expertise includes XR, HCI, data visualization, and cybersecurity.
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
