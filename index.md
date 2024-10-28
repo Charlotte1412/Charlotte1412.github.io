@@ -1,94 +1,21 @@
 ---
-layout: page
-full_logo: true
-title: 
-subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-sitemap:
-  priority: 1.0
+permalink: /
+title: "About ME"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
-<br>
-This is the index page. Describe yourself in a few sentences here. Perhaps talk about what you do for a living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
-Pudhina Fresh is free and open-source. Check out [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Shiqi is a first-year PhD student in <em>Interdisciplinary Design and Media</em> at [Northeastern University](https://www.northeastern.edu), advised by <em>[Dr. Wallace Lages](https://www.wallacelages.com/about.html)</em> from the [Reality Design Studio](http://www.realitydesign.studio/). She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction. Her research focuses on advancing the field of Extended Reality (XR) through innovative interface design and system development. She explores the convergence of virtual and augmented reality with emerging technologies like robotics and IoT to create more intuitive and immersive experiences. Her work spans from fundamental interaction design to practical applications across various domains, with a particular emphasis on creating meaningful user experiences that bridge the virtual and physical worlds.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Research interests:
+======
+<ul>
+  <li><b>XR Interaction & Interface Design:</b> Development of novel, user-centered, and natural interaction techniques and interfaces for immersive XR experiences.</li>
+  <li><b>XR Systems & Development:</b> Integration of XR technologies with IoT and robotics through robust system architectures and multi-modal designs.</li>
+  <li><b>XR Applications & Domain-Specific Solutions:</b> Implementation of XR solutions across healthcare, scientific visualization, and educational domains.</li>
+</ul>
 
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .profile {
-            display: flex;
-            align-items: flex-start;
-            gap: 20px;
-        }
-        .profile-image {
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
-            border-radius: 10px;
-        }
-        .profile-content {
-            flex: 1;
-        }
-        h1 {
-            margin-top: 0;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        .links a {
-            margin-right: 10px;
-            color: #0066cc;
-            text-decoration: none;
-        }
-        .links a:hover {
-            text-decoration: underline;
-        }
-        .credit {
-            font-size: 0.9em;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
-    <div class="profile">
-        <img src="assets/website_picture_202407.jpg" alt="Photo taken in Iceland, July 2024" class="profile-image">
-        <div class="profile-content">
-            <p class="credit">
-                Photo by my partner <a href="https://pages.gaow.click/">Weihe GAO</a>
-            </p>
-            <h1>YU, Shiqi</h1>
-            <p><em>Incoming PhD student in Interdisciplinary Design and Media at Northeastern University, Boston, MA.</em></p>
-            <ul>
-                <li>PhD Student in Interdisciplinary Design and Media, Northeastern University, USA (09. 2024-)</li>
-                <li>M.S. in Design Informatics, University of Edinburgh, UK (09. 2021-08. 2022)</li>
-                <li>B.ENG in Digital Media Technology, Beijing Language and Culture University, China (09. 2017-07. 2021)</li>
-            </ul>
-            <p>I am a researcher specializing in Extended Reality (XR) and Human-Computer Interaction (HCI). I am particularly interested in seamlessly integrating virtual and physical realms to create innovative and privacy-conscious immersive experiences across industries like healthcare, manufacturing, and entertainment.</p>
-            <p>For the full scoop, dive into my <a href="assets/cv_shiqiyu_20240604">CV</a>!</p>
-            <p><em>Last Updated on Jul. 29, 2024.</em></p>
-        </div>
-    </div>
-</body>
-</html>
+Before settling in Boston, Shiqi Yu spent wondeful three years in the UK, working as a Research Fellow at [Cranfield University](https://www.cranfield.ac.uk/) on XR research for the DEBUT WM project and as an XR Software Developer at the [University of Greenwich](https://www.gre.ac.uk/), where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the [University of Edinburgh](https://www.ed.ac.uk/), supervised by <em>[Dr. Benjamin Bach](https://vishub.net/bach.html)</em>, with a thesis on 3D medical data visualization using HoloLens. Her expertise includes XR, HCI, data visualization, and cybersecurity.
